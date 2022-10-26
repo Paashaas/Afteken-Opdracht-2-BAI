@@ -1,0 +1,14 @@
+/Users/sietsezee/Downloads/Uitgangssituatie/BAI2/bin/Debug/netcoreapp3.1/BAI2
+/Users/sietsezee/Downloads/Uitgangssituatie/BAI2/bin/Debug/netcoreapp3.1/BAI2.deps.json
+/Users/sietsezee/Downloads/Uitgangssituatie/BAI2/bin/Debug/netcoreapp3.1/BAI2.runtimeconfig.json
+/Users/sietsezee/Downloads/Uitgangssituatie/BAI2/bin/Debug/netcoreapp3.1/BAI2.runtimeconfig.dev.json
+/Users/sietsezee/Downloads/Uitgangssituatie/BAI2/bin/Debug/netcoreapp3.1/BAI2.dll
+/Users/sietsezee/Downloads/Uitgangssituatie/BAI2/bin/Debug/netcoreapp3.1/BAI2.pdb
+/Users/sietsezee/Downloads/Uitgangssituatie/BAI2/obj/Debug/netcoreapp3.1/BAI2.csproj.AssemblyReference.cache
+/Users/sietsezee/Downloads/Uitgangssituatie/BAI2/obj/Debug/netcoreapp3.1/BAI2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sietsezee/Downloads/Uitgangssituatie/BAI2/obj/Debug/netcoreapp3.1/BAI2.AssemblyInfoInputs.cache
+/Users/sietsezee/Downloads/Uitgangssituatie/BAI2/obj/Debug/netcoreapp3.1/BAI2.AssemblyInfo.cs
+/Users/sietsezee/Downloads/Uitgangssituatie/BAI2/obj/Debug/netcoreapp3.1/BAI2.csproj.CoreCompileInputs.cache
+/Users/sietsezee/Downloads/Uitgangssituatie/BAI2/obj/Debug/netcoreapp3.1/BAI2.dll
+/Users/sietsezee/Downloads/Uitgangssituatie/BAI2/obj/Debug/netcoreapp3.1/BAI2.pdb
+/Users/sietsezee/Downloads/Uitgangssituatie/BAI2/obj/Debug/netcoreapp3.1/BAI2.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/sietsezee/.dotnet/store/|arch|/|tfm|",
+      "/Users/sietsezee/.nuget/packages"
+    ]
+  }
+}
