@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{83B66ABE-FB78-437F-B84B-96723C48A503}|Default">
+  <MonoDevelop.Ide.ItemProperties.BAI2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/TestUtils.cs">
+    <Files>
+      <File FileName="BAI2/Program.cs" Line="110" Column="37" />
+      <File FileName="Tests/Opdr1Tests.cs" Line="19" Column="38" />
+      <File FileName="Tests/TestUtils.cs" Line="34" Column="10" />
+      <File FileName="Tests/Opdr3Tests.cs" Line="17" Column="1" />
+      <File FileName="Tests/Opdr2Tests.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BAI2" expanded="True">
+            <Node name="BAI2" expanded="True" />
+            <Node name="Tests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="TestUtils.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="BAI2" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
